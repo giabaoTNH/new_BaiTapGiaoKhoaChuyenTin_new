@@ -11,6 +11,8 @@
 
 ### Rút kinh nghiệm:
 Trong hình vừa nãy
+Nếu quy hoạch động có quá nhiều chiều thì nên xem xét xem có nén lại được không. Giống như em đã nén mảng $$dp[i][j][k][mask]$$ thành $$dp[i][mask]$$.
+
 
 🚀 Bài học quan trọng:
 🔹 Không ngại mấy thứ mình sợ, mà phải đối mặt với nó.
