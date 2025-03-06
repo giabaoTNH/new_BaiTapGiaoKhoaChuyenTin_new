@@ -7,6 +7,7 @@
 - Nghĩ ra được cách nhét bitmask thì mảng lại quá nhiều chiều $$f[i][j][k][bitmask]$$ mà không biết nén mảng.
 ### Nếu gặp dạng này, em sẽ làm nhanh hơn không?
 - Chắc chắn rồi
+- Có cách nào nhận diện nhanh hơn không?: Có tích hợp đánh dấu trong công thức truy hồi. Dùng quay lui sinh hoán vi
 
 ### Rút kinh nghiệm:
 Trong hình vừa nãy
@@ -26,3 +27,9 @@ Còn nếu thấy mệt, thì cứ nghỉ 5 phút, rồi quay lại tiếp tục
 
 💡 Châm ngôn mới cho em:
 "Một khi đã code, chỉ có AC hoặc hết test case!" 😆
+
+### 🔥 Cách cải thiện sau hôm nay
+1. Thuộc lòng 2 câu slogan.
+2. Viết lại bài tập 4.42 vào sổ tay.
+### 💡 Bước tiếp theo:
+- Nghỉ ngơi, mai còn chiến:>
